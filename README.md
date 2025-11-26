@@ -13,6 +13,21 @@ _Get started using GitHub in less than an hour._
 
 </header>
 
+## 🔐 Login Básico
+
+Este repositorio incluye un **formulario de login básico** implementado con HTML, CSS y JavaScript.
+
+📁 **Ubicación:** [`/login`](./login/)
+
+### Características:
+- Formulario de inicio de sesión con validación
+- Diseño moderno y responsivo
+- Credenciales de prueba: `admin` / `admin123`
+
+[Ver documentación del Login →](./login/README.md)
+
+---
+
 <!--
   <<< Author notes: Course start >>>
   Include start button, a note about Actions minutes,
